@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # PATH FINDING VISUALIZER
 
 [![Generic badge](https://img.shields.io/badge/WEBSITE-CLICK%20HERE-1abc9c.svg)](https://sandeep-shaw10.github.io/GraphJS/)
@@ -19,7 +20,7 @@
 ### PATH FINDING VISUALIZER
 
 - Dijikstra Algorithm
-- A* Algorithm
+- A\* Algorithm
 
 ## DEVELOPMENT
 
@@ -29,6 +30,7 @@
 [![Generic badge](https://img.shields.io/badge/SCSS-9%25-ff1a75.svg)](https://github.com/sandeep-shaw10/GraphJS/blob/master/LICENSE)
 
 #### LANGUAGE AND DEPLOYMENT
+
 <div style="background:#dddddd; padding:25px ">
 <p > 
 <a href="https://www.w3.org/html/" target="_blank">
@@ -72,7 +74,8 @@ Thank You !
 
 Have a nice Day :hugs:
 
-
 =======
+
 # Algorithm_visualization
->>>>>>> 33e179de9ef7807cad7c0241e427e8146f0c89b3
+
+> > > > > > > 33e179de9ef7807cad7c0241e427e8146f0c89b3
