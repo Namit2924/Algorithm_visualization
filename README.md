@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PATH FINDING VISUALIZER
 
 [![Generic badge](https://img.shields.io/badge/WEBSITE-CLICK%20HERE-1abc9c.svg)](https://sandeep-shaw10.github.io/GraphJS/)
@@ -72,3 +73,6 @@ Thank You !
 Have a nice Day :hugs:
 
 
+=======
+# Algorithm_visualization
+>>>>>>> 33e179de9ef7807cad7c0241e427e8146f0c89b3
