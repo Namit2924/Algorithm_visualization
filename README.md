@@ -64,9 +64,9 @@
 
 ![Preview](visual2.gif)
 
-> Sandeep Shaw\
+<!-- > Sandeep Shaw\
 > Student, C.S.E\
-> GCECT Kolkata
+> GCECT Kolkata -->
 
 If you like this repository make sure to give it a star :dizzy:
 
